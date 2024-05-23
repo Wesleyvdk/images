@@ -1,0 +1,112 @@
+[
+  {
+    "id": 101,
+    "name": "Frostmourne",
+    "type": "Sword",
+    "damage": 50,
+    "weight": 15.5,
+    "image": "",
+    "isMagic": true,
+    "origin": "Forged in the icy depths of the Northern Wastes.",
+    "element": "Ice"
+  },
+  {
+    "id": 102,
+    "name": "Staff of Wisdom",
+    "type": "Staff",
+    "damage": 30,
+    "weight": 5.0,
+    "image": "",
+    "isMagic": true,
+    "origin": "Crafted by the ancient wizards of the Arcane Tower.",
+    "element": "Arcane"
+  },
+  {
+    "id": 103,
+    "name": "Axe of Fury",
+    "type": "Axe",
+    "damage": 60,
+    "weight": 20.0,
+    "image": "",
+    "isMagic": false,
+    "origin": "A relic from the barbarian clans of the north.",
+    "element": "None"
+  },
+  {
+    "id": 104,
+    "name": "Bow of Eternity",
+    "type": "Bow",
+    "damage": 40,
+    "weight": 10.0,
+    "image": "",
+    "isMagic": true,
+    "origin": "Blessed by the Elven Queen.",
+    "element": "Light"
+  },
+  {
+    "id": 105,
+    "name": "Hammer of Thunder",
+    "type": "Hammer",
+    "damage": 55,
+    "weight": 25.0,
+    "image": "",
+    "isMagic": true,
+    "origin": "Forged in the Dwarven forges of Iron Mountain.",
+    "element": "Thunder"
+  },
+  {
+    "id": 106,
+    "name": "Daggers of the Night",
+    "type": "Daggers",
+    "damage": 35,
+    "weight": 5.5,
+    "image": "",
+    "isMagic": true,
+    "origin": "Stolen from the shadows of the Night Thieves.",
+    "element": "Darkness"
+  },
+  {
+    "id": 107,
+    "name": "Sword of Light",
+    "type": "Sword",
+    "damage": 45,
+    "weight": 18.0,
+    "image": "",
+    "isMagic": true,
+    "origin": "A gift from the Gods of Light.",
+    "element": "Light"
+  },
+  {
+    "id": 108,
+    "name": "Kamish's Wrath",
+    "type": "Dagger",
+    "damage": 70,
+    "weight": 3.0,
+    "image": "",
+    "isMagic": true,
+    "origin": "A powerful dagger made from the bones of the dragon Kamish.",
+    "element": "Shadow"
+  },
+  {
+    "id": 109,
+    "name": "Whip of Taming",
+    "type": "Whip",
+    "damage": 25,
+    "weight": 7.0,
+    "image": "",
+    "isMagic": true,
+    "origin": "Woven by the Beastmasters of the Wildlands.",
+    "element": "Nature"
+  },
+  {
+    "id": 110,
+    "name": "Staff of Nature",
+    "type": "Staff",
+    "damage": 30,
+    "weight": 5.0,
+    "image": "",
+    "isMagic": true,
+    "origin": "Grown from the heart of the Ancient Tree.",
+    "element": "Nature"
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "name": "Arthas",
+    "description": "A valiant knight with a tragic past.",
+    "age": 32,
+    "isActive": true,
+    "birthDate": "1992-05-23",
+    "profileImage": "",
+    "role": "Knight",
+    "abilities": ["Shield Block", "Charge", "Sword Mastery"],
+    "weapon": {
+      "id": 101,
+      "name": "Frostmourne",
+      "type": "Sword",
+      "damage": 50,
+      "weight": 15.5,
+      "image": "",
+      "isMagic": true
+    }
+  },
+  {
+    "id": 2,
+    "name": "Eldora",
+    "description": "A wise mage with immense magical powers.",
+    "age": 28,
+    "isActive": true,
+    "birthDate": "1996-08-14",
+    "profileImage": "",
+    "role": "Mage",
+    "abilities": ["Fireball", "Teleport", "Arcane Blast"],
+    "weapon": {
+      "id": 102,
+      "name": "Staff of Wisdom",
+      "type": "Staff",
+      "damage": 30,
+      "weight": 5.0,
+      "image": "",
+      "isMagic": true
+    }
+  },
+  {
+    "id": 3,
+    "name": "Gorak",
+    "description": "A fierce barbarian from the northern tribes.",
+    "age": 40,
+    "isActive": false,
+    "birthDate": "1984-11-02",
+    "profileImage": "",
+    "role": "Barbarian",
+    "abilities": ["Berserk", "War Cry", "Rage"],
+    "weapon": {
+      "id": 103,
+      "name": "Axe of Fury",
+      "type": "Axe",
+      "damage": 60,
+      "weight": 20.0,
+      "image": "",
+      "isMagic": false
+    }
+  },
+  {
+    "id": 4,
+    "name": "Lunara",
+    "description": "A skilled archer with unmatched precision.",
+    "age": 25,
+    "isActive": true,
+    "birthDate": "1998-04-12",
+    "profileImage": "",
+    "role": "Archer",
+    "abilities": ["Piercing Shot", "Eagle Eye", "Quick Shot"],
+    "weapon": {
+      "id": 104,
+      "name": "Bow of Eternity",
+      "type": "Bow",
+      "damage": 40,
+      "weight": 10.0,
+      "image": "",
+      "isMagic": true
+    }
+  },
+  {
+    "id": 5,
+    "name": "Thorin",
+    "description": "A stout dwarf with a love for mining and crafting.",
+    "age": 150,
+    "isActive": true,
+    "birthDate": "1874-09-23",
+    "profileImage": "",
+    "role": "Dwarf",
+    "abilities": ["Earthquake", "Stone Skin", "Smithing"],
+    "weapon": {
+      "id": 105,
+      "name": "Hammer of Thunder",
+      "type": "Hammer",
+      "damage": 55,
+      "weight": 25.0,
+      "image": "",
+      "isMagic": true
+    }
+  },
+  {
+    "id": 6,
+    "name": "Lyra",
+    "description": "An enigmatic rogue with a shadowy past.",
+    "age": 29,
+    "isActive": true,
+    "birthDate": "1995-07-01",
+    "profileImage": "",
+    "role": "Rogue",
+    "abilities": ["Stealth", "Backstab", "Lockpicking"],
+    "weapon": {
+      "id": 106,
+      "name": "Daggers of the Night",
+      "type": "Daggers",
+      "damage": 35,
+      "weight": 5.5,
+      "image": "",
+      "isMagic": true
+    }
+  },
+  {
+    "id": 7,
+    "name": "Baldric",
+    "description": "A noble paladin with a heart of gold.",
+    "age": 45,
+    "isActive": false,
+    "birthDate": "1979-10-30",
+    "profileImage": "",
+    "role": "Paladin",
+    "abilities": ["Divine Shield", "Holy Light", "Smite"],
+    "weapon": {
+      "id": 107,
+      "name": "Sword of Light",
+      "type": "Sword",
+      "damage": 45,
+      "weight": 18.0,
+      "image": "",
+      "isMagic": true
+    }
+  },
+  {
+    "id": 8,
+    "name": "Wraith",
+    "description": "A hunter who rose to power as the Shadow Monarch, commanding an army of shadows.",
+    "age": 24,
+    "isActive": true,
+    "birthDate": "2000-06-10",
+    "profileImage": "",
+    "role": "Shadow Monarch",
+    "abilities": ["Shadow Extraction", "Ruler's Authority", "Stealth"],
+    "weapon": {
+      "id": 111,
+      "name": "Kamish's Wrath",
+      "type": "Dagger",
+      "damage": 70,
+      "weight": 3.0,
+      "image": "",
+      "isMagic": true
+    }
+  },
+  {
+    "id": 9,
+    "name": "Fenrir",
+    "description": "A beastmaster with control over wild creatures.",
+    "age": 30,
+    "isActive": true,
+    "birthDate": "1993-12-06",
+    "profileImage": "",
+    "role": "Beastmaster",
+    "abilities": ["Beast Taming", "Wild Roar", "Animal Companion"],
+    "weapon": {
+      "id": 109,
+      "name": "Whip of Taming",
+      "type": "Whip",
+      "damage": 25,
+      "weight": 7.0,
+      "image": "",
+      "isMagic": true
+    }
+  },
+  {
+    "id": 10,
+    "name": "Selene",
+    "description": "A druid with a deep connection to nature.",
+    "age": 27,
+    "isActive": true,
+    "birthDate": "1996-01-21",
+    "profileImage": "",
+    "role": "Druid",
+    "abilities": ["Healing Touch", "Shapeshift", "Nature's Grasp"],
+    "weapon": {
+      "id": 110,
+      "name": "Staff of Nature",
+      "type": "Staff",
+      "damage": 30,
+      "weight": 5.0,
+      "image": "",
+      "isMagic": true
+    }
+  }
+]

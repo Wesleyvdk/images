@@ -6,7 +6,7 @@
     "age": 32,
     "isActive": true,
     "birthDate": "1992-05-23",
-    "profileImage": "",
+    "profileImage": "https://raw.githubusercontent.com/Wesleyvdk/images/main/arthas.webp",
     "role": "Knight",
     "abilities": ["Shield Block", "Charge", "Sword Mastery"],
     "weapon": {
@@ -26,7 +26,7 @@
     "age": 28,
     "isActive": true,
     "birthDate": "1996-08-14",
-    "profileImage": "",
+    "profileImage": "https://raw.githubusercontent.com/Wesleyvdk/images/main/eldora.webp",
     "role": "Mage",
     "abilities": ["Fireball", "Teleport", "Arcane Blast"],
     "weapon": {
@@ -46,7 +46,7 @@
     "age": 40,
     "isActive": false,
     "birthDate": "1984-11-02",
-    "profileImage": "",
+    "profileImage": "https://raw.githubusercontent.com/Wesleyvdk/images/main/gorak.webp",
     "role": "Barbarian",
     "abilities": ["Berserk", "War Cry", "Rage"],
     "weapon": {
@@ -66,7 +66,7 @@
     "age": 25,
     "isActive": true,
     "birthDate": "1998-04-12",
-    "profileImage": "",
+    "profileImage": "https://raw.githubusercontent.com/Wesleyvdk/images/main/lunara.webp",
     "role": "Archer",
     "abilities": ["Piercing Shot", "Eagle Eye", "Quick Shot"],
     "weapon": {
@@ -86,7 +86,7 @@
     "age": 150,
     "isActive": true,
     "birthDate": "1874-09-23",
-    "profileImage": "",
+    "profileImage": "https://raw.githubusercontent.com/Wesleyvdk/images/main/thorin.webp",
     "role": "Dwarf",
     "abilities": ["Earthquake", "Stone Skin", "Smithing"],
     "weapon": {
@@ -106,7 +106,7 @@
     "age": 29,
     "isActive": true,
     "birthDate": "1995-07-01",
-    "profileImage": "",
+    "profileImage": "https://raw.githubusercontent.com/Wesleyvdk/images/main/lyra.webp",
     "role": "Rogue",
     "abilities": ["Stealth", "Backstab", "Lockpicking"],
     "weapon": {
@@ -126,7 +126,7 @@
     "age": 45,
     "isActive": false,
     "birthDate": "1979-10-30",
-    "profileImage": "",
+    "profileImage": "https://raw.githubusercontent.com/Wesleyvdk/images/main/baldric.webp",
     "role": "Paladin",
     "abilities": ["Divine Shield", "Holy Light", "Smite"],
     "weapon": {
@@ -146,7 +146,7 @@
     "age": 24,
     "isActive": true,
     "birthDate": "2000-06-10",
-    "profileImage": "",
+    "profileImage": "https://raw.githubusercontent.com/Wesleyvdk/images/main/wraith.webp",
     "role": "Shadow Monarch",
     "abilities": ["Shadow Extraction", "Ruler's Authority", "Stealth"],
     "weapon": {
@@ -166,7 +166,7 @@
     "age": 30,
     "isActive": true,
     "birthDate": "1993-12-06",
-    "profileImage": "",
+    "profileImage": "https://raw.githubusercontent.com/Wesleyvdk/images/main/fenrir.webp",
     "role": "Beastmaster",
     "abilities": ["Beast Taming", "Wild Roar", "Animal Companion"],
     "weapon": {
@@ -186,7 +186,7 @@
     "age": 27,
     "isActive": true,
     "birthDate": "1996-01-21",
-    "profileImage": "",
+    "profileImage": "https://raw.githubusercontent.com/Wesleyvdk/images/main/selene.webp",
     "role": "Druid",
     "abilities": ["Healing Touch", "Shapeshift", "Nature's Grasp"],
     "weapon": {

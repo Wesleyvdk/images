@@ -15,7 +15,7 @@
       "type": "Sword",
       "damage": 50,
       "weight": 15.5,
-      "image": "",
+      "image": "https://raw.githubusercontent.com/Wesleyvdk/images/main/frostmourne.webp",
       "isMagic": true
     }
   },
@@ -35,7 +35,7 @@
       "type": "Staff",
       "damage": 30,
       "weight": 5.0,
-      "image": "",
+      "image": "https://raw.githubusercontent.com/Wesleyvdk/images/main/staff_of_wisdom.webp",
       "isMagic": true
     }
   },
@@ -55,7 +55,7 @@
       "type": "Axe",
       "damage": 60,
       "weight": 20.0,
-      "image": "",
+      "image": "https://raw.githubusercontent.com/Wesleyvdk/images/main/axe_of_fury.webp",
       "isMagic": false
     }
   },
@@ -75,7 +75,7 @@
       "type": "Bow",
       "damage": 40,
       "weight": 10.0,
-      "image": "",
+      "image": "https://raw.githubusercontent.com/Wesleyvdk/images/main/bow_of_eternity.webp",
       "isMagic": true
     }
   },
@@ -95,7 +95,7 @@
       "type": "Hammer",
       "damage": 55,
       "weight": 25.0,
-      "image": "",
+      "image": "https://raw.githubusercontent.com/Wesleyvdk/images/main/hammer_of_thunder.webp",
       "isMagic": true
     }
   },
@@ -115,7 +115,7 @@
       "type": "Daggers",
       "damage": 35,
       "weight": 5.5,
-      "image": "",
+      "image": "https://raw.githubusercontent.com/Wesleyvdk/images/main/dagger_of_night.webp",
       "isMagic": true
     }
   },
@@ -135,7 +135,7 @@
       "type": "Sword",
       "damage": 45,
       "weight": 18.0,
-      "image": "",
+      "image": "https://raw.githubusercontent.com/Wesleyvdk/images/main/sword_of_light.webp",
       "isMagic": true
     }
   },
@@ -155,7 +155,7 @@
       "type": "Dagger",
       "damage": 70,
       "weight": 3.0,
-      "image": "",
+      "image": "https://raw.githubusercontent.com/Wesleyvdk/images/main/kamish.webp",
       "isMagic": true
     }
   },
@@ -175,7 +175,7 @@
       "type": "Whip",
       "damage": 25,
       "weight": 7.0,
-      "image": "",
+      "image": "https://raw.githubusercontent.com/Wesleyvdk/images/main/whip_of_taming.webp",
       "isMagic": true
     }
   },
@@ -195,7 +195,7 @@
       "type": "Staff",
       "damage": 30,
       "weight": 5.0,
-      "image": "",
+      "image": "https://raw.githubusercontent.com/Wesleyvdk/images/main/staff_of_nature.webp",
       "isMagic": true
     }
   }
